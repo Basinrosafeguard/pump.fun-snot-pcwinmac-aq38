@@ -1,4 +1,4 @@
-# 
+# Advanced pump.fun sniper bot workflow for Mac OS | Smart pump.fun sniper bot workflow for PC Windows. Featuring honeypot detection and API integration — optimized for maximum performance on every platform.
 
 
 
